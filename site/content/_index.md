@@ -18,7 +18,7 @@ intro:
 products:
   - image: img/top-10-essential-computer-maintenance-tips.jpg
     text: >-
-      
+      COMPUTER SERVICES
       We provide computer services for Individual users and Businesses including monitoring, maintenance and support of both hardware and software.
   - image: img/services-5.jpg
     text: >-
